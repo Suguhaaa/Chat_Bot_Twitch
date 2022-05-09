@@ -12,7 +12,7 @@ const twitchclient = new tmi.client(
             username:settings.TwitchUser,
             password:settings.TwitchAuth
         },
-        channels: ["pukupuku24"]
+        channels: ["channel name"]
     }
 )
 
